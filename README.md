@@ -2,6 +2,6 @@
 
 ## les 1.1 
 
-![gif](images/Coin.gif)
+![gif](Coin.gif)
 
 [script]()
