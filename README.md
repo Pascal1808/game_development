@@ -4,6 +4,5 @@
 
 ![gif](Coin.gif)
 
-##### met dit script laat ik hett muntje draaien
-
+#### met dit script laat ik het muntje draaien:
 [script](https://github.com/Pascal1808/game_development/blob/main/new%20project/Assets/scripts/RotateObject.cs)
