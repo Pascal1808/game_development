@@ -2,6 +2,7 @@
 
 ## les 1.1 
 
+## coin
 ![gif](Coin.gif)
 
 #### met dit script laat ik het muntje draaien:
