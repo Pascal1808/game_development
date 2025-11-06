@@ -2,4 +2,6 @@
 
 ## les 1.1 
 
-![alt text](C:\Users\pasca\OneDrive\MA\PROG\Coin.gif)
+![gif](images/Coin.gif)
+
+[script]()
