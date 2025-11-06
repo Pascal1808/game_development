@@ -4,4 +4,4 @@
 
 ![gif](Coin.gif)
 
-[script]()
+[script](new project/Assets/scripts/RotateObject.cs)
