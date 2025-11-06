@@ -2,4 +2,4 @@
 
 ## les 1.1 
 
-![gif](C:\Users\pasca\OneDrive\MA\GDV\AnimationCoin.gif)
+![gif](c:\Users\pasca\OneDrive\Afbeeldingen\AnimationCoin.gif)
